@@ -1,4 +1,4 @@
-# PandasOnSpark_CML
+# Using the Pandas On Spark API in CML
 
 ## Objective
 
